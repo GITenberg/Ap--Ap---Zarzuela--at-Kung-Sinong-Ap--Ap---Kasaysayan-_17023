@@ -1,0 +1,28 @@
+_repo: Ap--Ap---Zarzuela--at-Kung-Sinong-Ap--Ap---Kasaysayan-_17023
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17023-h/images/cover_040_tb.jpg
+creator:
+  author:
+    agent_name: Lopez, Pantaleón S.
+    alias: Lopez, Pantaleon S.
+    birthdate: 1872
+    deathdate: 1912
+    gutenberg_agent_id: '7096'
+    url: http://www.gutenberg.org/2009/agents/7096
+description: ''
+gutenberg_issued: '2005-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17023'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Musicals -- Philippines'
+- !lcsh 'Zarzuela -- Philippines'
+title: Apô-Apô (Zarzuela) at Kung Sinong Apô-Apô (Kasaysayan)
+url: http://www.gutenberg.org/ebooks/17023
